@@ -1,0 +1,36 @@
+{
+   "checksum": "33848e07f0b05aaaebad5623d4771404",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13081337258794561",
+            "id": "6",
+            "name": "fish: Tutorial",
+            "type": "url",
+            "url": "http://fishshell.com/docs/current/tutorial.html#tut_command_substitutions"
+         } ],
+         "date_added": "13081336325207263",
+         "date_modified": "13081337258794561",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13081336325207273",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13081336325207274",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
