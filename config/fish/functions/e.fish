@@ -1,3 +1,3 @@
-function em
+function e
 	 emacs -nw $argv
 end
